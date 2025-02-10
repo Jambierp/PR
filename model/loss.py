@@ -126,3 +126,7 @@ if __name__ == '__main__':
         0, 1, (3, 3, 256, 256))).float().to(device)
     ternary_loss = Ternary()
     print(ternary_loss(img0, img1).shape)
+# Unique Identifier: 
+# Unique Identifier: 
+# Unique Identifier: 
+# Unique Identifier: 
